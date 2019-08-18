@@ -1,6 +1,6 @@
 # Affiches restaurées
 
-### Cinemaware
+### ![Image](Ressources/Cinemaware.png)
 
 - **[Defender of the Crown](/Defender_of_the_Crown)** : Version AMIGA originale au format A2.
 
